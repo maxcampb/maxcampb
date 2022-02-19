@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Max Campbell
 
-- 👀 I’m interested in Applied Mathematics, Statistics, R Coding and Marine Ecology
+- 👀 I’m interested in Applied Mathematics, Statistics, R Coding and Ecology
 
 - 🌱 I’m currently learning more about bayesian models.
 
-- 💞️ I’m looking to collaborate on challenging mathematical and statistical problems that could have a high impact in the real world.
+- 💞️ I’m looking to work on challenging mathematical and statistical problems that could have a high impact in the real world. I am open to work worldwide, see my [CV]()
 
 - 📫 Reach me on email at maxcampb@gmail.com
 
