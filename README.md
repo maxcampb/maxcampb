@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max Campbell
 
-- 👀 I’m interested in Applied Mathematics, Statistics, R Coding in the Environmental, Social and Financial domains. And, .... Underwater Hockey.
+- 👀 I’m interested in Applied Mathematics, Statistics, R Coding in the Environmental, Social and Financial domains.
 
 - 🌱 I’m currently learning more about linear algebra and machine learning.
 
