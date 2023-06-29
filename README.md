@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning more about bayesian regression and machine learning.
 
-- 💞️ I enjoy working in teams on challenging applied mathematical and statistical problems. You can view some of my code [here](https://github.com/maxcampb/Code_showcase). Please reach out to me if I could be a good fit for your team - [here is my CV](https://github.com/maxcampb/maxcampb/blob/main/Max_Campbell_CV.pdf).
+- 💞️ I enjoy working in teams on challenging applied mathematical and statistical problems. You can view some of my code [here](https://github.com/maxcampb/Code_showcase). To learn more about my skills and interests visit my [webpage](https://maxcampb.github.io/), [LinkedIn](https://www.linkedin.com/in/max-campbell-650ab196/), or view my [CV](https://github.com/maxcampb/maxcampb/blob/main/Max_Campbell_CV.pdf).  Please reach out to me if I could be a good fit for your team.
 
 - 📫 Reach me on email at maxcampbe@gmail.com
 
